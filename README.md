@@ -1,6 +1,6 @@
 # Baileys WhisykeySocket
 <p align='center'>
-  <img src="https://files.catbox.moe/8jurck.jpg" width="500">
+  <img src="https://files.catbox.moe/0nnopd.jpg" width="500">
 </p>
 
 --- 
@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "xatabail": "github:Bealllevey62/xatabail"
+  "xatabail": "github:zxtabibhl-creator/baileys"
 }
 ```
 ## Import
@@ -16,7 +16,7 @@
 const {
   default:makeWASocket,
   // Other Options 
-} = require('xatabail');
+} = require('@whiskeysockets/baileys');
 ```
 
 
@@ -25,7 +25,7 @@ const {
 const {
   default: makeWASocket,
   fetchLatestWAWebVersion
-} = require('xatabail');
+} = require('@whiskeysockets/baileys');
 
 const client = makeWASocket({
   browser: ['Ubuntu', 'Chrome', '20.00.1'],
