@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "xatabail": "github:zxtabibhl-creator/baileys"
+  "xatabail": "github.com/xaviernotdev/baileys"
 }
 ```
 ## Import
